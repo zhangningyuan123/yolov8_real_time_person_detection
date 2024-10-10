@@ -1,0 +1,2 @@
+# yolov8_real_time_person_detection
+本项目使用 YOLOv8 模型进行行人检测，应用于公共场所的实时监控中。通过迁移学习提高模型在行人检测任务中的表现。
